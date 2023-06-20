@@ -1,0 +1,16 @@
+body {
+    background-color: cream;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+table,th,td {
+    width:300px;
+    margin:auto;
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+    border: 1px solid;
+    border-color: rgb(120, 55, 190);
+    background-color: rgb(250, 240, 199);
+}
